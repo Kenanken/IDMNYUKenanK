@@ -3,7 +3,7 @@ float r, g, b, w, h;
 void setup(){
   size(800, 600);
   background(#F5F5F5);
-  frameRate(15);
+  frameRate(9);
   smooth();
   ellipseMode(CENTER); 
   }
